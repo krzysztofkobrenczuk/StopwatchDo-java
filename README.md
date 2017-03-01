@@ -1,4 +1,4 @@
-# StopwatchDo-java
+# StopwatchDo-java-swing
 - StopwatchDo is a simple desktop application to measuring time of tasks. 
 - You can save every task which you have done, with a date, time and description!
 ![alt tag] (https://cloud.githubusercontent.com/assets/24368029/23464879/e044897e-fe96-11e6-93ed-8aea422a736a.jpg)
